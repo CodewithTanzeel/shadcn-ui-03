@@ -14,7 +14,7 @@ import {
 const CardDemo = () => {
   return (
     <div className='w-screen h-screen flex justify-center p-10 items-center '>
-        <Card className='border-rounded bg-black text-white hover:bg-emerald-900'>
+        <Card className='border-rounded bg-black text-white hover:bg-emerald-900 hover:s'>
   <CardHeader>
     <CardTitle>14th-Gen Processors</CardTitle>
     <CardDescription>By Intel</CardDescription>

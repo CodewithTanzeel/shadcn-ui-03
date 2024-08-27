@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <div className="m-0 p-0">
       <h1 className="text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl p-5 hover:text-gray-800">
-        Shadcn UI Card Component
+        Shadcn UI Card Component//basic Heeading
       </h1>
       <div className="w-full h-screen flex justify-center items-center p-4">
-        <CardDemo />
+        <CardDemo />//Rendering CardDemo component from card.tsx
       </div>
     </div>
   );
